@@ -2,3 +2,4 @@ Conflict can occur when you attempt to merge two branches in Git, and Git is una
 To resolve a conflict in Git, you'll need to open the affected files and examine the conflicting sections. You can then choose which version of the code you want to keep or merge the changes manually.
 Once you have resolved the conflicts, you can then commit the changes to complete the merge.
 To avoid conflicts, it's important to keep your branches up-to-date and to communicate with your team members about any changes you're making. It's also a good idea to test your changes before merging them to minimize the risk of conflicts.
+jjjj
